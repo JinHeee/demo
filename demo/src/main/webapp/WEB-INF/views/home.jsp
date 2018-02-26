@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	demo upload test!!!
+	commit까지만
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
